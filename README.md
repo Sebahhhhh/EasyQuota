@@ -40,7 +40,6 @@ https://yuml.me/69b9d2e2.svg
 https://society-sync-platform.lovable.app
 
 ## WBS 
-
 **1.0 PIANIFICAZIONE (1 sett.)**
    1.1 Requisiti + Use Case
    1.2 Diagramma Gantt + Risorse
