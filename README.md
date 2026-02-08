@@ -1,7 +1,7 @@
 
 
 # Titolo: 
-MySociety
+### MySociety
 
 # Descrizione: 
 mySociety è un’applicazione mobile innovativa pensata per rendere semplice e intuitiva la gestione delle associazioni e società di ogni tipo, dalle realtà sportive e culturali fino ai gruppi scolastici, musicali o di volontariato. L’app si basa su un sistema di registrazione flessibile, pensato sia per i singoli utenti sia per chi amministra una società. Ogni persona, una volta creata la propria utenza, può iscriversi liberamente a più società contemporaneamente, semplicemente inserendo un codice o seguendo un link di invito fornito dai responsabili. In questo modo, l’utente può passare facilmente da un gruppo all’altro, mantenendo sempre tutto organizzato all’interno della stessa applicazione.
@@ -16,7 +16,6 @@ L’app centralizza tutto in un unico ambiente digitale accessibile da smartphon
 
 # Target: 
 Società e Associazioni di piccole, medie dimensioni. Specializzata per società sportive, ma utile anche a circoli e comitati che hanno esigenze di gestire in maniera comoda quote, ed eventi. 
-
 
 # Tagline:
 "La Società sempre sotto il tuo controllo"
