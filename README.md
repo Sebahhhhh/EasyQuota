@@ -16,22 +16,9 @@ L’app centralizza tutto in un unico ambiente digitale accessibile da smartphon
 
 Target: Società e Associazioni di piccole, medie dimensioni. Specializzata per società sportive, ma utile anche a circoli e comitati che hanno esigenze di gestire in maniera comoda quote, ed eventi. 
 
-Competitors:| Funzionalità                        | Importanza | Golee | GeSoSport | weSpoort | mySociety |
-| ----------------------------------- | ---------- | ----- | --------- | -------- | --------- |
-| Organizz. automatica categorie soci | High       | ✓     | ?         | ✓        | ✓         |
-| Subtotale quote pagate              | High       | ✓     | ✓         | ✓        | ✓         |
-| Controllo scadenze quote            | High       | ✓     | ✓         | ✓        | ✓         |
-| Gestione pagamenti online (Stripe)  | High       | ✓     | ✓         | ?        | ✓         |
-| Calendario eventi/allenamenti       | High       | ✓     | ✓         | ✓        | ✓         |
-| Bacheca annunci/notifiche push      | High       | ✓     | ✓         | ✓        | ✓         |
-| App mobile nativa (iOS/Android)     | High       | ✓     | ✓         | ?        | ✓         |
-| Iscrizione multi-società utente     | High       | ✗     | ✗         | ✗        | ✓         |
-| Sottosocietà/gerarchia interna      | Medium     | ?     | ✓         | ✓        | ✓         |
-| Backup cloud automatico             | Medium     | ✓     | ?         | ✓        | ✓         |
-| Esportazione PDF/Excel              | Medium     | ✓     | ✓         | ✓        | ✓         |
-| Statistiche/grafici dashboard       | Medium     | ✓     | ?         | ✓        | ✓         |
-| Gestione documenti allegati         | Low        | ✓     | ✓         | ?        | ✓         |
-| Integrazione WhatsApp/Email         | Low        | ✓     | ?         | ✓        | ✓         |
-| Piano gratuito/base                 | Low        | ?     | ✓ (30gg)  | ✓        | ✓         |
+Competitors:
+<img width="1113" height="454" alt="immagine" src="https://github.com/user-attachments/assets/38728b2c-a88c-4d24-93e0-275446e13ee5" />
+
+
 
 
