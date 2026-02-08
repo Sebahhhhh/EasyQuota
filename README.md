@@ -22,7 +22,7 @@ Società e Associazioni di piccole, medie dimensioni. Specializzata per società
 # Tecnologie Utilizzate:
 Frontend Mobile.  
 Backend.  
-Database. 
+Database.   
 Autenticazione.  
 Cloud Storage.  
   
