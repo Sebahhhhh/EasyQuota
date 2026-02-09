@@ -14,7 +14,7 @@ Nasce per risolvere la gestione frammentata e confusa tipica di molte associazio
 L’app centralizza tutto in un unico ambiente digitale accessibile da smartphone: soci, pagamenti, eventi, annunci e sottosocietà vengono gestiti in modo ordinato e condiviso. In questo modo le associazioni migliorano la comunicazione interna, risparmiano tempo e mantengono sempre sotto controllo la propria organizzazione.
 
 # Target: 
-Società e Associazioni di piccole, medie dimensioni. Specializzata per società sportive, ma utile anche a circoli e comitati che hanno esigenze di gestire in maniera comoda quote, ed eventi. 
+Società e Associazioni di piccole, medie dimensioni. Soprattutto società sportive, ma utile anche a circoli e comitati e federazioni che hanno esigenze di gestire in maniera comoda quote, annunci, calendario ed eventi.
 
 # Tagline:
 "La Società sempre sotto il tuo controllo"
