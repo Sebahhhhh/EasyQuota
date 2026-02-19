@@ -69,6 +69,7 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
 # Cronoprogramma Progetto App
 
     ```mermaid
+    gantt
     title WBS - Cronoprogramma Progetto (10 settimane)
     dateFormat  YYYY-MM-DD
     axisFormat  W%W
