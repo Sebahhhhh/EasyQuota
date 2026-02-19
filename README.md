@@ -68,39 +68,31 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
    
 # Cronoprogramma Progetto App
 
-Durata totale: 10 settimane
+Settimane →   1  2  3  4  5  6  7  8  9  10
+------------------------------------------------
 
-```mermaid
-gantt
-    title Cronoprogramma Sviluppo App (10 settimane)
-    dateFormat  YYYY-MM-DD
-    excludes weekends
+1.0 Pianificazione
+Requisiti + Use Case      █
+Gantt + Risorse           █
+Piano completo Progetto   █
 
-    section 1. Pianificazione (1 settimana)
-    1.1 Requisiti + Use Case                  :a1, 2026-03-02, 3d
-    1.2 Diagramma Gantt + Risorse             :a2, after a1, 2d
-    1.3 Piano completo Progetto               :milestone, a3, after a2, 1d
+2.0 Design
+Database                     █  █
+Flusso Utente                █  █
+Prototipo UI/UX              █  █
 
-    section 2. Design (2 settimane)
-    2.1 Database                              :b1, 2026-03-09, 5d
-    2.2 Flusso Utente                         :b2, after b1, 3d
-    2.3 Prototipo UI/UX (Figma)               :milestone, b3, after b2, 1d
+3.0 Sviluppo
+Backend                           █  █  █
+Frontend Mobile                      █  █  █
+Integrazioni                             █
 
-    section 3. Sviluppo (5 settimane)
-    3.1 Backend                               :c1, 2026-03-23, 15d
-    3.2 Frontend Mobile                       :c2, 2026-03-30, 15d
-    3.3 Integrazioni (Pagamenti, Notifiche)   :c3, after c1, 5d
-    3.4 MVP                                   :milestone, c4, after c3, 1d
+4.0 Test + Lancio
+Test Unitari + Integrazione                     █
+Beta Testing + Bug Fix                          █
+Deploy + Dominio                                   █
+App Live                                              █
 
-    section 4. Test + Lancio (2 settimane)
-    4.1 Test Unitari + Integrazione           :d1, 2026-05-04, 5d
-    4.2 Beta Testing + Bug Fix                :d2, after d1, 5d
-    4.3 Deploy App Store + Dominio            :d3, after d2, 3d
-    4.4 App Live                              :milestone, d4, after d3, 1d
-
-    section 5. Chiusura
-    5.1 Pubblicità                            :e1, after d4, 5d
-```
-   
+5.0 Chiusura
+Pubblicità                                              █
 
 
