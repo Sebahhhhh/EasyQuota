@@ -82,19 +82,19 @@ DELIVERABLE - Piano Progetto  :crit,    p1d, 2025-01-14, 1d
 section 2.0 DESIGN
 Database                      :active,  p2a, 2025-01-15, 5d
 Flusso Utente                 :         p2b, 2025-01-16, 5d
-DELIVERABLE - Prototipo Figma :crit,    p2d, 2025-01-23, 1d
+DELIVERABLE - Prototipo Figma :crit,    p2d, 2025-01-21, 1d
 
 section 3.0 SVILUPPO
-Backend                       :active,  p3a, 2025-01-24, 15d
-Frontend Mobile               :         p3b, 2025-02-03, 15d
-Integrazioni pagamenti e push :         p3c, 2025-02-10, 10d
-DELIVERABLE - MVP             :crit,    p3d, 2025-02-20, 1d
+Backend                       :active,  p3a, 2025-01-22, 15d
+Frontend Mobile               :         p3b, 2025-02-01, 15d
+Integrazioni pagamenti e push :         p3c, 2025-02-09, 10d
+DELIVERABLE - MVP             :crit,    p3d, 2025-02-19, 1d
 
 section 4.0 TEST + LANCIO
-Test Unitari + Integrazione   :active,  p4a, 2025-03-02, 5d
-Beta Testing + Bug Fix        :         p4b, 2025-03-05, 5d
-Deploy App Store + Dominio    :         p4c, 2025-03-8, 4d
-DELIVERABLE - App Live        :crit,    p4d, 2025-03-12, 1d
+Test Unitari + Integrazione   :active,  p4a, 2025-02-20, 5d
+Beta Testing + Bug Fix        :         p4b, 2025-02-23, 5d
+Deploy App Store + Dominio    :         p4c, 2025-02-26, 4d
+DELIVERABLE - App Live        :crit,    p4d, 2025-02-30, 1d
 
 section 5.0 CHIUSURA
-Review + Documentazione       :done,    p5a, 2025-03-13, 3d
+Review + Documentazione       :done,    p5a, 2025-02-31, 3d
