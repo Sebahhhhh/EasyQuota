@@ -66,7 +66,8 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
 **5.0 CHIUSURA**  
    &nbsp;‎ ‎ &nbsp;  5.1 Pubblicità
    
-# Cronoprogramma 
+## Cronoprogramma 
+
     ```
     mermaid
     gantt
