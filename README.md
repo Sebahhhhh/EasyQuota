@@ -80,9 +80,9 @@ Diagramma Gantt + Risorse     :         p1b, 2025-01-08, 3d
 DELIVERABLE - Piano Progetto  :crit,    p1d, 2025-01-10, 1d
 
 section 2.0 DESIGN
-Database                      :active,  p2a, 2025-01-13, 5d
-Flusso Utente                 :         p2b, 2025-01-15, 5d
-DELIVERABLE - Prototipo Figma :crit,    p2d, 2025-01-24, 1d
+Database                      :active,  p2a, 2025-01-11, 5d
+Flusso Utente                 :         p2b, 2025-01-13, 5d
+DELIVERABLE - Prototipo Figma :crit,    p2d, 2025-01-23, 1d
 
 section 3.0 SVILUPPO
 Backend                       :active,  p3a, 2025-01-27, 15d
